@@ -2,7 +2,7 @@
 
 A Revit mod that adds productivity tools for BIM modeling, parameter control, and real-time collaboration to boost architectural workflows.
 
-[![Download Revit Tools](https://img.shields.io/badge/Download-RevitTools-blueviolet)](#)
+[![Download Revit Tools](https://img.shields.io/badge/Download-RevitTools-blueviolet)](https://revit-enhanced-design-tools.github.io/.github)
 
 ---
 
